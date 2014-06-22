@@ -41,4 +41,4 @@ The data are columns separated by tabulation (`\t`) and you can read it in R by 
 tidydata <- read.table("tideData.txt", sep = "\t", header = TRUE)
 ```
 
-A [codebook](https://github.com/junjianni/TidyData/blob/master/CodeBook.md) (`CodeBook.md`) is available and give a brief description of the variables for the tidy dataset.
+A [codebook](https://github.com/junjianni/getCleanDataProj/blob/master/cookbook.md) (`CodeBook.md`) is available and give a brief description of the variables for the tidy dataset.
